@@ -17,3 +17,12 @@ To share context
 2. inside AuthProvider access children props and then use 
 
 */
+
+
+/* 
+To integrate
+
+1.breakdown the create user function
+2.auth provider will have auth and pass email password form register
+
+*/
