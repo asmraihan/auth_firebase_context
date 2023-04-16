@@ -26,3 +26,11 @@ To integrate
 2.auth provider will have auth and pass email password form register
 
 */
+
+
+
+/* 
+1. Private route
+2. 
+
+*/
